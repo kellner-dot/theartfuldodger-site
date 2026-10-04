@@ -51,7 +51,7 @@ album ID from the Share dialog:
 
 ## Updating for new releases
 
-- **Tuff Old Bird (Oct 1, 2026):** after release, add Bandcamp/Spotify/Apple Music
+- **Tuff Old Bird (release date TBD):** after release, add Bandcamp/Spotify/Apple Music
   links to its card (currently "Upcoming"). Artwork is already in place.
 - **George E. Ackerman single:** swap the placeholder cover for the final art and
   flip the tag to `Album`/`Single` when it's out.
